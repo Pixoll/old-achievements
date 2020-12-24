@@ -4,7 +4,7 @@
       "item": "minecraft:cobblestone"
     },
     "title": "Feeling nostalgic?",
-    "description": "The old achievements featured till 1.11.2 migrated to 1.15+",
+    "description": "The old achievements featured from 1.5 to 1.11.2 migrated to 1.14.4+",
     "background": "minecraft:textures/block/mossy_cobblestone.png",
     "announce_to_chat": false
   },
