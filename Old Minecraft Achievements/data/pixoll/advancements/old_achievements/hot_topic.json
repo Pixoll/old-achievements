@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:furnace"
+      "item": "furnace"
     },
     "title": "Hot Topic",
     "description": "Craft a furnace out of eight cobblestone blocks"
@@ -9,11 +9,11 @@
   "parent": "pixoll:old_achievements/time_to_mine",
   "criteria": {
     "craftFurnace": {
-      "trigger": "minecraft:inventory_changed",
+      "trigger": "inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:furnace"
+            "item": "furnace"
           }
         ]
       }

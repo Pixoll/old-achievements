@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:blaze_rod"
+      "item": "blaze_rod"
     },
     "title": "Into Fire",
     "description": "Relieve a Blaze of its rod",
@@ -11,11 +11,11 @@
   "parent": "pixoll:old_achievements/we_need_to_go_deeper",
   "criteria": {
     "getRod": {
-      "trigger": "minecraft:inventory_changed",
+      "trigger": "inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:blaze_rod"
+            "item": "blaze_rod"
           }
         ]
       }

@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:stone_pickaxe"
+      "item": "stone_pickaxe"
     },
     "title": "Getting an Upgrade",
     "description": "Make a better pickaxe",
@@ -11,51 +11,51 @@
   "parent": "pixoll:old_achievements/time_to_mine",
   "criteria": {
     "stonePick": {
-      "trigger": "minecraft:inventory_changed",
+      "trigger": "inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:stone_pickaxe"
+            "item": "stone_pickaxe"
           }
         ]
       }
     },
     "ironPick": {
-      "trigger": "minecraft:inventory_changed",
+      "trigger": "inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:iron_pickaxe"
+            "item": "iron_pickaxe"
           }
         ]
       }
     },
     "goldenPick": {
-      "trigger": "minecraft:inventory_changed",
+      "trigger": "inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:golden_pickaxe"
+            "item": "golden_pickaxe"
           }
         ]
       }
     },
     "diamondPick": {
-      "trigger": "minecraft:inventory_changed",
+      "trigger": "inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:diamond_pickaxe"
+            "item": "diamond_pickaxe"
           }
         ]
       }
     },
     "netheritePick": {
-      "trigger": "minecraft:inventory_changed",
+      "trigger": "inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:netherite_pickaxe"
+            "item": "netherite_pickaxe"
           }
         ]
       }

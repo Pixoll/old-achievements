@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:diamond_sword",
+      "item": "diamond_sword",
       "nbt": "{Enchantments:[{id:sharpness,lvl:1}]}"
     },
     "title": "Overkill",
@@ -11,7 +11,7 @@
   "parent": "pixoll:old_achievements/enchanting_table",
   "criteria": {
     "nineDamage": {
-      "trigger": "minecraft:player_hurt_entity",
+      "trigger": "player_hurt_entity",
       "conditions": {
         "damage": {
           "dealt": {

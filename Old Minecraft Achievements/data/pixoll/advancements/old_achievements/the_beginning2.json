@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:nether_star"
+      "item": "nether_star"
     },
     "title": "The Beginning",
     "description": "Kill the Wither"
@@ -9,10 +9,10 @@
   "parent": "pixoll:old_achievements/the_beginning1",
   "criteria": {
     "killWither": {
-      "trigger": "minecraft:player_killed_entity",
+      "trigger": "player_killed_entity",
       "conditions": {
         "entity": {
-          "type": "minecraft:wither"
+          "type": "wither"
         }
       }
     }

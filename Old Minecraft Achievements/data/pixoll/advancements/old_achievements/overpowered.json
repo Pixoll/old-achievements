@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:enchanted_golden_apple"
+      "item": "enchanted_golden_apple"
     },
     "title": "Overpowered",
     "description": "Eat a Notch apple",
@@ -10,10 +10,10 @@
   "parent": "pixoll:old_achievements/getting_an_upgrade",
   "criteria": {
     "eatNotchApple": {
-      "trigger": "minecraft:consume_item",
+      "trigger": "consume_item",
       "conditions": {
         "item": {
-          "item": "minecraft:enchanted_golden_apple"
+          "item": "enchanted_golden_apple"
         }
       }
     }

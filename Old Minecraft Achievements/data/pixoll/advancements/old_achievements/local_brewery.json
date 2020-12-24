@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:potion",
+      "item": "potion",
       "nbt": "{Potion:\"minecraft:regeneration\"}"
     },
     "title": "Local Brewery",
@@ -12,7 +12,7 @@
   "parent": "pixoll:old_achievements/into_fire",
   "criteria": {
     "brewPotion": {
-      "trigger": "minecraft:brewed_potion"
+      "trigger": "brewed_potion"
     }
   }
 }

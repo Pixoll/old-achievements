@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:crafting_table"
+      "item": "crafting_table"
     },
     "title": "Benchmarking",
     "description": "Craft a crafting table with four blocks of planks"
@@ -9,11 +9,11 @@
   "parent": "pixoll:old_achievements/getting_wood",
   "criteria": {
     "craftTable": {
-      "trigger": "minecraft:inventory_changed",
+      "trigger": "inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:crafting_table"
+            "item": "crafting_table"
           }
         ]
       }

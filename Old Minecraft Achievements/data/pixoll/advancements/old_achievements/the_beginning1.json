@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:wither_skeleton_skull"
+      "item": "wither_skeleton_skull"
     },
     "title": "The Beginning?",
     "description": "Spawn the Wither",
@@ -11,10 +11,10 @@
   "parent": "pixoll:old_achievements/the_end2",
   "criteria": {
     "spawnWither": {
-      "trigger": "minecraft:summoned_entity",
+      "trigger": "summoned_entity",
       "conditions": {
         "entity": {
-          "type": "minecraft:wither"
+          "type": "wither"
         }
       }
     }

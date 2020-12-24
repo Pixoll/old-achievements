@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:obsidian"
+      "item": "obsidian"
     },
     "title": "We Need to Go Deeper",
     "description": "Build a portal to the Nether",
@@ -11,10 +11,10 @@
   "parent": "pixoll:old_achievements/diamonds",
   "criteria": {
     "netherPortal": {
-      "trigger": "minecraft:changed_dimension",
+      "trigger": "changed_dimension",
       "conditions": {
-        "from": "minecraft:overworld",
-        "to": "minecraft:the_nether"
+        "from": "overworld",
+        "to": "the_nether"
       }
     }
   }

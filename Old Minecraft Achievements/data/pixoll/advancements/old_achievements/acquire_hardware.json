@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:iron_ingot"
+      "item": "iron_ingot"
     },
     "title": "Acquire Hardware",
     "description": "Smelt an iron ingot",
@@ -11,11 +11,11 @@
   "parent": "pixoll:old_achievements/hot_topic",
   "criteria": {
     "smeltIron": {
-      "trigger": "minecraft:inventory_changed",
+      "trigger": "inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:iron_ingot"
+            "item": "iron_ingot"
           }
         ]
       }

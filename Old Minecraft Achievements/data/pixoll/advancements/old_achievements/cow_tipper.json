@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:leather"
+      "item": "leather"
     },
     "title": "Cow Tipper",
     "description": "Harvest some leather"
@@ -9,11 +9,11 @@
   "parent": "pixoll:old_achievements/time_to_strike",
   "criteria": {
     "getLeather": {
-      "trigger": "minecraft:inventory_changed",
+      "trigger": "inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:leather"
+            "item": "leather"
           }
         ]
       }

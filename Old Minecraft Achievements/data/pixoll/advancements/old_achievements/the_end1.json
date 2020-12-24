@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:ender_eye"
+      "item": "ender_eye"
     },
     "title": "The End?",
     "description": "Locate the End",
@@ -12,10 +12,10 @@
   "parent": "pixoll:old_achievements/into_fire",
   "criteria": {
     "locateEnd": {
-      "trigger": "minecraft:changed_dimension",
+      "trigger": "changed_dimension",
       "conditions": {
-        "from": "minecraft:overworld",
-        "to": "minecraft:the_end"
+        "from": "overworld",
+        "to": "the_end"
       }
     }
   }

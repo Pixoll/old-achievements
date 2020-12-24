@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:diamond_ore"
+      "item": "diamond_ore"
     },
     "title": "DIAMONDS!",
     "description": "Acquire diamonds with your iron tools",
@@ -11,11 +11,11 @@
   "parent": "pixoll:old_achievements/acquire_hardware",
   "criteria": {
     "getDiamonds": {
-      "trigger": "minecraft:inventory_changed",
+      "trigger": "inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:diamond"
+            "item": "diamond"
           }
         ]
       }

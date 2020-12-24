@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:beacon"
+      "item": "beacon"
     },
     "title": "Beaconator",
     "description": "Make a full beacon",
@@ -12,7 +12,7 @@
   "parent": "pixoll:old_achievements/the_beginning2",
   "criteria": {
     "fullBeacon": {
-      "trigger": "minecraft:construct_beacon",
+      "trigger": "construct_beacon",
       "conditions": {
         "level": 4
       }

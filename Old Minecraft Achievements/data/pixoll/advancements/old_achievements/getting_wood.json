@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:oak_log"
+      "item": "oak_log"
     },
     "title": "Getting Wood",
     "description": "Attack a tree until a block of wood pops out"
@@ -9,11 +9,11 @@
   "parent": "pixoll:old_achievements/root",
   "criteria": {
     "getWood": {
-      "trigger": "minecraft:inventory_changed",
+      "trigger": "inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:oak_log"
+            "item": "oak_log"
           }
         ]
       }

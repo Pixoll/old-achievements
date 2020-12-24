@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:cooked_cod"
+      "item": "cooked_cod"
     },
     "title": "Delicious Fish",
     "description": "Catch and cook a fish!"
@@ -9,21 +9,21 @@
   "parent": "pixoll:old_achievements/hot_topic",
   "criteria": {
     "cookCod": {
-      "trigger": "minecraft:inventory_changed",
+      "trigger": "inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:cooked_cod"
+            "item": "cooked_cod"
           }
         ]
       }
     },
     "cookSalmon": {
-      "trigger": "minecraft:inventory_changed",
+      "trigger": "inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:cooked_salmon"
+            "item": "cooked_salmon"
           }
         ]
       }

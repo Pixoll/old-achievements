@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:bookshelf"
+      "item": "bookshelf"
     },
     "title": "Librarian",
     "description": "Build some bookshelves to improve your enchanting table"
@@ -9,11 +9,11 @@
   "parent": "pixoll:old_achievements/enchanting_table",
   "criteria": {
     "bookshelf": {
-      "trigger": "minecraft:inventory_changed",
+      "trigger": "inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:bookshelf"
+            "item": "bookshelf"
           }
         ]
       }

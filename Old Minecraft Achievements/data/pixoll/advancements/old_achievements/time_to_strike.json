@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:wooden_sword"
+      "item": "wooden_sword"
     },
     "title": "Time to Strike!",
     "description": "Use planks and sticks to make a sword"
@@ -9,11 +9,11 @@
   "parent": "pixoll:old_achievements/benchmarking",
   "criteria": {
     "woodenSword": {
-      "trigger": "minecraft:inventory_changed",
+      "trigger": "inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:wooden_sword"
+            "item": "wooden_sword"
           }
         ]
       }
