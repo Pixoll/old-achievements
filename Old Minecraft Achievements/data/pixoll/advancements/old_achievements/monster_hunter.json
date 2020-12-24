@@ -10,7 +10,7 @@
   },
   "parent": "pixoll:old_achievements/time_to_strike",
   "criteria": {
-    "blaze": {
+    "hostiles": {
       "trigger": "player_killed_entity",
       "conditions": {
         "entity": {

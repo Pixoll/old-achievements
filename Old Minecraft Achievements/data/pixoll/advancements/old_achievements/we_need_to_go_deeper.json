@@ -10,7 +10,7 @@
   },
   "parent": "pixoll:old_achievements/diamonds",
   "criteria": {
-    "netherPortal": {
+    "nether_portal": {
       "trigger": "changed_dimension",
       "conditions": {
         "from": "overworld",

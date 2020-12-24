@@ -9,7 +9,7 @@
   },
   "parent": "pixoll:old_achievements/getting_an_upgrade",
   "criteria": {
-    "eatNotchApple": {
+    "eat_notch_apple": {
       "trigger": "consume_item",
       "conditions": {
         "item": {

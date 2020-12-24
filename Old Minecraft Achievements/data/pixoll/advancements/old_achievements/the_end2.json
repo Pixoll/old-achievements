@@ -11,7 +11,7 @@
   },
   "parent": "pixoll:old_achievements/the_end1",
   "criteria": {
-    "killDragon": {
+    "kill_dragon": {
       "trigger": "player_killed_entity",
       "conditions": {
         "entity": {

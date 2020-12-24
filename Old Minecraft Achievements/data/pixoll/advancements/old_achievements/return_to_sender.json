@@ -11,7 +11,7 @@
   },
   "parent": "pixoll:old_achievements/we_need_to_go_deeper",
   "criteria": {
-    "killGhast": {
+    "kill_ghast": {
       "trigger": "player_killed_entity",
       "conditions": {
         "entity": {

@@ -11,7 +11,7 @@
   },
   "parent": "pixoll:old_achievements/the_beginning2",
   "criteria": {
-    "fullBeacon": {
+    "full_beacon": {
       "trigger": "construct_beacon",
       "conditions": {
         "level": 4

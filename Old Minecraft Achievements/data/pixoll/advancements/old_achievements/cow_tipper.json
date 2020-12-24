@@ -8,7 +8,7 @@
   },
   "parent": "pixoll:old_achievements/time_to_strike",
   "criteria": {
-    "getLeather": {
+    "get_leather": {
       "trigger": "inventory_changed",
       "conditions": {
         "items": [

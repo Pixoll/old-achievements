@@ -8,7 +8,7 @@
   },
   "parent": "pixoll:old_achievements/getting_wood",
   "criteria": {
-    "craftTable": {
+    "craft_table": {
       "trigger": "inventory_changed",
       "conditions": {
         "items": [

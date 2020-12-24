@@ -10,7 +10,7 @@
   },
   "parent": "pixoll:old_achievements/enchanting_table",
   "criteria": {
-    "nineDamage": {
+    "nine_hearts": {
       "trigger": "player_hurt_entity",
       "conditions": {
         "damage": {

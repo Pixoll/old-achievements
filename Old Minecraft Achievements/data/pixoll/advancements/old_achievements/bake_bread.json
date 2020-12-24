@@ -8,7 +8,7 @@
   },
   "parent": "pixoll:old_achievements/time_to_farm",
   "criteria": {
-    "bakeBread": {
+    "bake_bread": {
       "trigger": "inventory_changed",
       "conditions": {
         "items": [

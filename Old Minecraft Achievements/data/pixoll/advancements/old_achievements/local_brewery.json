@@ -11,7 +11,7 @@
   },
   "parent": "pixoll:old_achievements/into_fire",
   "criteria": {
-    "brewPotion": {
+    "brew_potion": {
       "trigger": "brewed_potion"
     }
   }

@@ -8,7 +8,7 @@
   },
   "parent": "pixoll:old_achievements/root",
   "criteria": {
-    "getWood": {
+    "get_wood": {
       "trigger": "inventory_changed",
       "conditions": {
         "items": [

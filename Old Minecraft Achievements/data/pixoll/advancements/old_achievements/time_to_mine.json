@@ -8,75 +8,15 @@
   },
   "parent": "pixoll:old_achievements/benchmarking",
   "criteria": {
-    "woodenPick": {
+    "pickaxes": {
       "trigger": "inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "wooden_pickaxe"
-          }
-        ]
-      }
-    },
-    "stonePick": {
-      "trigger": "inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "stone_pickaxe"
-          }
-        ]
-      }
-    },
-    "ironPick": {
-      "trigger": "inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "iron_pickaxe"
-          }
-        ]
-      }
-    },
-    "goldenPick": {
-      "trigger": "inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "golden_pickaxe"
-          }
-        ]
-      }
-    },
-    "diamondPick": {
-      "trigger": "inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "diamond_pickaxe"
-          }
-        ]
-      }
-    },
-    "netheritePick": {
-      "trigger": "inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "netherite_pickaxe"
+            "tag": "pixoll:pickaxes"
           }
         ]
       }
     }
-  },
-  "requirements": [
-    [
-      "woodenPick",
-      "stonePick",
-      "ironPick",
-      "goldenPick",
-      "diamondPick",
-      "netheritePick"
-    ]
-  ]
+  }
 }

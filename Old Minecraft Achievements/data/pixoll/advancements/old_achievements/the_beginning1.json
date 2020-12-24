@@ -10,7 +10,7 @@
   },
   "parent": "pixoll:old_achievements/the_end2",
   "criteria": {
-    "spawnWither": {
+    "spawn_wither": {
       "trigger": "summoned_entity",
       "conditions": {
         "entity": {

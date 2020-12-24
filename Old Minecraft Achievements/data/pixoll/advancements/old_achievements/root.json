@@ -9,7 +9,7 @@
     "announce_to_chat": false
   },
   "criteria": {
-    "joinServer": {
+    "join_server": {
       "trigger": "tick"
     }
   }

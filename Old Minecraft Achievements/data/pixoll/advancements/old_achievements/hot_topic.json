@@ -8,7 +8,7 @@
   },
   "parent": "pixoll:old_achievements/time_to_mine",
   "criteria": {
-    "craftFurnace": {
+    "craft_furnace": {
       "trigger": "inventory_changed",
       "conditions": {
         "items": [

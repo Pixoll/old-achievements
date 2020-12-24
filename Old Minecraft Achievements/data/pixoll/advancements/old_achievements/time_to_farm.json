@@ -8,75 +8,15 @@
   },
   "parent": "pixoll:old_achievements/benchmarking",
   "criteria": {
-    "woodenHoe": {
+    "hoes": {
       "trigger": "inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "wooden_hoe"
-          }
-        ]
-      }
-    },
-    "stoneHoe": {
-      "trigger": "inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "stone_hoe"
-          }
-        ]
-      }
-    },
-    "ironHoe": {
-      "trigger": "inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "iron_hoe"
-          }
-        ]
-      }
-    },
-    "goldenHoe": {
-      "trigger": "inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "golden_hoe"
-          }
-        ]
-      }
-    },
-    "diamondHoe": {
-      "trigger": "inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "diamond_hoe"
-          }
-        ]
-      }
-    },
-    "netheriteHoe": {
-      "trigger": "inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "netherite_hoe"
+            "tag": "pixoll:hoes"
           }
         ]
       }
     }
-  },
-  "requirements": [
-    [
-      "woodenHoe",
-      "stoneHoe",
-      "ironHoe",
-      "goldenHoe",
-      "diamondHoe",
-      "netheriteHoe"
-    ]
-  ]
+  }
 }

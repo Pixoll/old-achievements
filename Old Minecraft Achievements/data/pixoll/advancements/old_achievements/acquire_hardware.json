@@ -10,7 +10,7 @@
   },
   "parent": "pixoll:old_achievements/hot_topic",
   "criteria": {
-    "smeltIron": {
+    "smelt_iron": {
       "trigger": "inventory_changed",
       "conditions": {
         "items": [

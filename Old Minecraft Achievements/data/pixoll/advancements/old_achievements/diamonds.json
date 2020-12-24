@@ -10,7 +10,7 @@
   },
   "parent": "pixoll:old_achievements/acquire_hardware",
   "criteria": {
-    "getDiamonds": {
+    "get_diamonds": {
       "trigger": "inventory_changed",
       "conditions": {
         "items": [

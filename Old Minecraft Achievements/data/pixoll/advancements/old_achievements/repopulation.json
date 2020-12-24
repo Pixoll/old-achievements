@@ -10,7 +10,7 @@
   },
   "parent": "pixoll:old_achievements/cow_tipper",
   "criteria": {
-    "breedAnimal": {
+    "breed_animal": {
       "trigger": "bred_animals"
     }
   }

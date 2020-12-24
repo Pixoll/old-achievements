@@ -8,7 +8,7 @@
   },
   "parent": "pixoll:old_achievements/bake_bread",
   "criteria": {
-    "bakeCake": {
+    "bake_cake": {
       "trigger": "inventory_changed",
       "conditions": {
         "items": [

@@ -8,7 +8,7 @@
   },
   "parent": "pixoll:old_achievements/the_beginning1",
   "criteria": {
-    "killWither": {
+    "kill_wither": {
       "trigger": "player_killed_entity",
       "conditions": {
         "entity": {

@@ -8,7 +8,7 @@
   },
   "parent": "pixoll:old_achievements/diamonds",
   "criteria": {
-    "giveDiamonds": {
+    "give_diamonds": {
       "trigger": "thrown_item_picked_up_by_entity",
       "conditions": {
         "entity": {

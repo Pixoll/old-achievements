@@ -8,7 +8,7 @@
   },
   "parent": "pixoll:old_achievements/diamonds",
   "criteria": {
-    "craftEnchantingTable": {
+    "craft_enchanting_table": {
       "trigger": "inventory_changed",
       "conditions": {
         "items": [

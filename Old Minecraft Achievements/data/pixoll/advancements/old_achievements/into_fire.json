@@ -10,7 +10,7 @@
   },
   "parent": "pixoll:old_achievements/we_need_to_go_deeper",
   "criteria": {
-    "getRod": {
+    "get_rod": {
       "trigger": "inventory_changed",
       "conditions": {
         "items": [

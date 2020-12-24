@@ -11,7 +11,7 @@
   },
   "parent": "pixoll:old_achievements/into_fire",
   "criteria": {
-    "locateEnd": {
+    "locate_end": {
       "trigger": "changed_dimension",
       "conditions": {
         "from": "overworld",

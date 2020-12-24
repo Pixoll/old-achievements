@@ -10,7 +10,7 @@
   },
   "parent": "pixoll:old_achievements/time_to_mine",
   "criteria": {
-    "stonePick": {
+    "stone_pickaxe": {
       "trigger": "inventory_changed",
       "conditions": {
         "items": [
@@ -20,7 +20,7 @@
         ]
       }
     },
-    "ironPick": {
+    "iron_pickaxe": {
       "trigger": "inventory_changed",
       "conditions": {
         "items": [
@@ -30,7 +30,7 @@
         ]
       }
     },
-    "goldenPick": {
+    "golden_pickaxe": {
       "trigger": "inventory_changed",
       "conditions": {
         "items": [
@@ -40,7 +40,7 @@
         ]
       }
     },
-    "diamondPick": {
+    "diamond_pickaxe": {
       "trigger": "inventory_changed",
       "conditions": {
         "items": [
@@ -50,7 +50,7 @@
         ]
       }
     },
-    "netheritePick": {
+    "netherite_pickaxe": {
       "trigger": "inventory_changed",
       "conditions": {
         "items": [
@@ -63,11 +63,11 @@
   },
   "requirements": [
     [
-      "stonePick",
-      "ironPick",
-      "goldenPick",
-      "diamondPick",
-      "netheritePick"
+      "stone_pickaxe",
+      "iron_pickaxe",
+      "golden_pickaxe",
+      "diamond_pickaxe",
+      "netherite_pickaxe"
     ]
   ]
 }
