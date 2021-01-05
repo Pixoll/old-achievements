@@ -6,7 +6,7 @@
     "title": "Delicious Fish",
     "description": "Catch and cook a fish!"
   },
-  "parent": "pixoll:old_achievements/hot_topic",
+  "parent": "pixoll:hot_topic",
   "criteria": {
     "cooked_cod": {
       "trigger": "inventory_changed",

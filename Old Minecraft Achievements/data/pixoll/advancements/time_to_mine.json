@@ -6,7 +6,7 @@
     "title": "Time to mine!",
     "description": "Use planks and sticks to make a pickaxe"
   },
-  "parent": "pixoll:old_achievements/benchmarking",
+  "parent": "pixoll:benchmarking",
   "criteria": {
     "pickaxes": {
       "trigger": "inventory_changed",

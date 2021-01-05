@@ -1,20 +1,21 @@
 {
   "display": {
     "icon": {
-      "item": "obsidian"
+      "item": "ender_eye"
     },
-    "title": "We Need to Go Deeper",
-    "description": "Build a portal to the Nether",
+    "title": "The End?",
+    "description": "Locate the End",
+    "frame": "challenge",
     "show_toast": false,
     "announce_to_chat": false
   },
-  "parent": "pixoll:old_achievements/diamonds",
+  "parent": "pixoll:into_fire",
   "criteria": {
-    "nether_portal": {
+    "locate_end": {
       "trigger": "changed_dimension",
       "conditions": {
         "from": "overworld",
-        "to": "the_nether"
+        "to": "the_end"
       }
     }
   }

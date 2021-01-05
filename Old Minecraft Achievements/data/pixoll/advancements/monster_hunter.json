@@ -1,21 +1,20 @@
 {
   "display": {
     "icon": {
-      "item": "dragon_egg"
+      "item": "bone"
     },
-    "title": "The End",
-    "description": "Defeat the Ender Dragon",
-    "frame": "challenge",
+    "title": "Monster Hunter",
+    "description": "Attack and destroy a monster",
     "show_toast": false,
     "announce_to_chat": false
   },
-  "parent": "pixoll:old_achievements/the_end1",
+  "parent": "pixoll:time_to_strike",
   "criteria": {
-    "kill_dragon": {
+    "hostiles": {
       "trigger": "player_killed_entity",
       "conditions": {
         "entity": {
-          "type": "ender_dragon"
+          "type": "#pixoll:hostiles"
         }
       }
     }

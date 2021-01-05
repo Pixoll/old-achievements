@@ -6,7 +6,7 @@
     "title": "Bake Bread",
     "description": "Turn wheat into bread"
   },
-  "parent": "pixoll:old_achievements/time_to_farm",
+  "parent": "pixoll:time_to_farm",
   "criteria": {
     "bake_bread": {
       "trigger": "inventory_changed",

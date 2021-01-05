@@ -9,8 +9,11 @@
     "announce_to_chat": false
   },
   "criteria": {
-    "join_server": {
+    "join_world": {
       "trigger": "tick"
     }
+  },
+  "rewards": {
+    "function": "pixoll:scoreboards"
   }
 }

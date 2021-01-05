@@ -8,7 +8,7 @@
     "description": "Deal nine hearts of damage in a single hit",
     "frame": "challenge"
   },
-  "parent": "pixoll:old_achievements/enchanting_table",
+  "parent": "pixoll:enchanting_table",
   "criteria": {
     "nine_hearts": {
       "trigger": "player_hurt_entity",

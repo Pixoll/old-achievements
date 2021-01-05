@@ -6,7 +6,7 @@
     "title": "Hot Topic",
     "description": "Craft a furnace out of eight cobblestone blocks"
   },
-  "parent": "pixoll:old_achievements/time_to_mine",
+  "parent": "pixoll:time_to_mine",
   "criteria": {
     "craft_furnace": {
       "trigger": "inventory_changed",

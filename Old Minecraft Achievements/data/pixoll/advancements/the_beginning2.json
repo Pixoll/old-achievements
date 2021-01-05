@@ -6,7 +6,7 @@
     "title": "The Beginning",
     "description": "Kill the Wither"
   },
-  "parent": "pixoll:old_achievements/the_beginning1",
+  "parent": "pixoll:the_beginning1",
   "criteria": {
     "kill_wither": {
       "trigger": "player_killed_entity",

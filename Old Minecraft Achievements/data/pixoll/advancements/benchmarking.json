@@ -6,7 +6,7 @@
     "title": "Benchmarking",
     "description": "Craft a crafting table with four blocks of planks"
   },
-  "parent": "pixoll:old_achievements/getting_wood",
+  "parent": "pixoll:getting_wood",
   "criteria": {
     "craft_table": {
       "trigger": "inventory_changed",

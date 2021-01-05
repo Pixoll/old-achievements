@@ -6,7 +6,7 @@
     "title": "Table of Enchanting",
     "description": "Use a book, obsidian and diamonds to craft an enchanting table"
   },
-  "parent": "pixoll:old_achievements/diamonds",
+  "parent": "pixoll:diamonds",
   "criteria": {
     "craft_enchanting_table": {
       "trigger": "inventory_changed",

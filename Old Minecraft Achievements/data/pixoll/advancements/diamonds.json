@@ -8,7 +8,7 @@
     "show_toast": false,
     "announce_to_chat": false
   },
-  "parent": "pixoll:old_achievements/acquire_hardware",
+  "parent": "pixoll:acquire_hardware",
   "criteria": {
     "get_diamonds": {
       "trigger": "inventory_changed",

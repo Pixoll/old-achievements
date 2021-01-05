@@ -7,7 +7,7 @@
     "description": "Kill a skeleton with an arrow from more than 50 meters",
     "frame": "challenge"
   },
-  "parent": "pixoll:old_achievements/monster_hunter",
+  "parent": "pixoll:monster_hunter",
   "criteria": {
     "sniper": {
       "trigger": "player_killed_entity",

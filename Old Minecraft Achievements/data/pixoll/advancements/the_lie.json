@@ -6,7 +6,7 @@
     "title": "The Lie",
     "description": "Wheat, sugar, milk, and eggs"
   },
-  "parent": "pixoll:old_achievements/bake_bread",
+  "parent": "pixoll:bake_bread",
   "criteria": {
     "bake_cake": {
       "trigger": "inventory_changed",

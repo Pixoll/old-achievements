@@ -9,7 +9,7 @@
     "show_toast": false,
     "announce_to_chat": false
   },
-  "parent": "pixoll:old_achievements/into_fire",
+  "parent": "pixoll:into_fire",
   "criteria": {
     "brew_potion": {
       "trigger": "brewed_potion"
