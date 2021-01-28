@@ -1,0 +1,1 @@
+execute if score @s 1km_rail matches 100000.. run advancement grant @s only pixoll:on_a_rail

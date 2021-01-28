@@ -1,0 +1,16 @@
+{
+  "display": {
+    "icon": {
+      "item": "rail"
+    },
+    "title": "On A Rail",
+    "description": "Travel by minecart at least 1 km from where you started",
+    "frame": "challenge"
+  },
+  "parent": "pixoll:root",
+  "criteria": {
+    "1km_rail": {
+      "trigger": "impossible"
+    }
+  }
+}
